@@ -1,8 +1,7 @@
-name: cadquery-app
 channels:
   - conda-forge
 dependencies:
-  - python=3.11
+  - python=3.10
   - streamlit
   - pandas
   - cadquery
